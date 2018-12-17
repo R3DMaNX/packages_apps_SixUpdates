@@ -30,7 +30,7 @@ LOCAL_AAPT_FLAGS += --extra-packages android.support.v7.appcompat:android.suppor
 
 include frameworks/opt/setupwizard/library/common-gingerbread.mk
 
-LOCAL_PACKAGE_NAME := Updates
+LOCAL_PACKAGE_NAME := SixUpdates
 
 LOCAL_PRIVATE_PLATFORM_APIS := true
 
